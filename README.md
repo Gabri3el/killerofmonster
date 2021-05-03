@@ -1,3 +1,5 @@
+
+![KillerMonster(1)](https://user-images.githubusercontent.com/62441006/116932720-00b66980-ac39-11eb-8721-4367da06b726.gif)
 <h1 align="center">Killer of Monsters | VueJS </h1>
 <p align="center">A game made by an RPG fan using the basic concepts of Vue JS. Learning more concepts from Vue Js.</p>
 <p>Project created in the course of Udemy "Curso Vue Js 2 - O guia completo" by <a href="https://github.com/leonardomleitao">Leronardo Leitao Cod3er</a></p>
